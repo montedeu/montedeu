@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm currently learning Java with the Spring framework
+- How to reach me: qblcrank@gmail.com
+
 <!--
 **montedeu/montedeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
