@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently learning Java with the Spring framework
+- I'm currently learning Python with the Django framework
 - How to reach me: qblcrank@gmail.com
 
 <!--
