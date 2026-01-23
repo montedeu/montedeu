@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently learning Python with the Django framework
+- I'm currently learning React and Node.js.
 - How to reach me: qblcrank@gmail.com
 
 <!--
